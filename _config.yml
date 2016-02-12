@@ -2,7 +2,7 @@
 baseurl: "/hillaryfeller.github.io" # the subpath of your site, e.g. /blog/
 url: "http://hillaryfeller.github.io" # the base hostname & protocol for your site
 
-# THEME-SPECIFIC CONFIGURATION
+
 theme:
   # Meta
   title: Hillary Feller # Your name will go here
