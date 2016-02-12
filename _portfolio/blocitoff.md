@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Bloccit
-thumbnail-path: "img/bloccit.png"
+title: ShareLinkz
+thumbnail-path: "img/sharelinkzhome.png"
 short-description: Boilerplate for a Reddit style application.
 
 ---

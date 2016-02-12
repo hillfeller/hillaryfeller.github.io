@@ -22,7 +22,7 @@ theme:
   behance:
   bitbucket:
   dribbble:
-  facebook: https://www.facebook.com/hillary.feller
+  facebook: hillary.feller
   flickr:
   github: hillfeller
   google_plus:
@@ -51,8 +51,7 @@ theme:
   str_prev: "Prev"
   str_continue_reading: "Read more &raquo;"
 
-  # Colours, typography and padding
-  # Open the "_sass > base" folder, and open "_variables.scss"
+
   google_fonts: "Lato:300,400,700,300italic,700italic|Abril+Fatface"
 
 # PAGINATION
